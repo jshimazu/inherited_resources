@@ -1,2 +1,3 @@
 .bundle
 test/gemfiles/*.lock
+vendor/bundle

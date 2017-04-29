@@ -130,7 +130,7 @@ DEPENDENCIES
   inherited_resources!
   minitest-rg
   mocha
-  rails (~> 5.0)
+  rails
   rails-controller-testing
 
 BUNDLED WITH
